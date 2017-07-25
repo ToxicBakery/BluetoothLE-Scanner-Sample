@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bluetooth LE Sample</string>
+    <string name="location_permission_required">Location permission required</string>
+    <string name="unsupported_device">This device does not support Bluetooth LE</string>
+    <string name="bluetooth_not_enabled">Bluetooth is not enabled</string>
+</resources>
